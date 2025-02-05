@@ -12,6 +12,7 @@ The attacks were flagged by our security infrastructure, leveraging a variety of
 - **NETGEAR DGN1000 CGI Unauthenticated Remote Code Execution**: A vulnerability in NETGEAR routers that allows remote attackers to execute arbitrary code without authentication.
 - **AndroxGh0st Malware**: A potent malware variant that is often used in advanced persistent threats, allowing for remote command execution, data theft, and system control.
 - **Zyxel zhttpd Webserver Command Injection**: A vulnerability in Zyxel's zhttpd webserver that permits remote attackers to execute arbitrary system commands, leading to complete system compromise.
+- **Apache.HTTP.Server.cgi-bin.Path.Traversal**: The vulnerability is due to a path normalisation error in Apache HTTP Server. Successful exploitation can potentially lead to information disclosure.
 
 ## Purpose of this List
 
